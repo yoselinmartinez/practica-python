@@ -15,3 +15,14 @@ print(lista1)
 lista1.extend(lista2)
 print(lista1)
 
+#otro ejercicio de listas
+lista = ["naranja", "fresa", "plátano"]
+frutas = ["durazno", "piña"]
+
+lista.extend(frutas)
+
+print(lista) # ["naranja","fresa","platano","durazno","pinia"]
+
+
+
+
